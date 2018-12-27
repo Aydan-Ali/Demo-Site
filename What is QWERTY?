@@ -1,13 +1,12 @@
-<html>
- <title>Why do we use the QWERTY keyboard</title>
-</html>
 
-<!DOCTYPE html>
-<html lang="en" dir="ltr">
-<head>What is "QWERTY"?</head>
-  <body>There is a 99% chance you are currantly using the QWERTY keyboard. 
-    You might also have one in youe pocket.QWERTY is the main keyboard that nearly evreything has.
-    To indentify a QWERTY keyboard, the first 6 letters of the keyboard will be aranged in this 
-    paticular pattern: Q,W,E,R,T and Y spelling QWERTY ,hence the name QWERTY. 
-  </body>
-</html>
+<html>
+<head>
+	 <title>Why do we use the QWERTY keyboard</title>
+</head>
+<body>
+	<h1>What is QWERTY?</h1>
+            <div><p>There is a 99% chance you are currantly using the QWERTY keyboard.<br> You might also have one in youe pocket. QWERTY has been around since the 18th centry.
+     This keyboard starts with the letters Q,W,E,R,T and Y wich spells the word "QWERTY".</br></p>
+  <p2>QWERTY is the standard english typing keyboard that almost the whole world uses to this date.
+  	<br>Many companys n the 19th centry were being manufactured the QWERTY keyboard that was greatly known.</br></p2></div>
+ </html>
